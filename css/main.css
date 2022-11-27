@@ -233,7 +233,7 @@ a {
   padding-bottom: 140px;
   background-image: url("../images/icons/right-circle.svg");
   background-repeat: no-repeat;
-  background-position: calc(50% + 760px) bottom;
+  background-position: calc(50% + 700px) bottom;
   background-color: var(--build-bg-color);
 }
 
