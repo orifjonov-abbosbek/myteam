@@ -185,7 +185,7 @@ a {
   background-image: url("../images/icons/disk-left.svg"),
     url("../images/icons/disk-bottom.svg");
   background-repeat: no-repeat;
-  background-position: calc(50% - 770px) top,
+  background-position: calc(50% - 700px) top,
     calc(50% + 400px) calc(50% + 230px);
   background-color: var(--hero-bg-color);
 }
